@@ -1,3 +1,5 @@
+![image](intro-bg.jpg)
+
 # DLT-FM: Workshop on Distributed Ledger Technologies and Formal Methods
 
 **Cagliari (Italy), September 11-12, 2023**
