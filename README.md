@@ -50,6 +50,10 @@ Silvia Crafa (Univ Padova), Lorenzo Benetollo, Michele Bugliesi, Alvise Spanò, 
 
 Letterio Galletta and Margherita Renieri (IMT Lucca)
 
+**State-based modeling and verification of smart contracts**
+
+Chiara Braghin, Elvinia Riccobene and Simone Valentini (University of Milano)
+
 
 ## Acknowledgements
 
