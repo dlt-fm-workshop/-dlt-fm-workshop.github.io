@@ -38,10 +38,19 @@ Emilio Tuosto and Maurizio Murgia (GSSI)
 
 Roberto Zunino and Riccardo Marchesin (University of Trento)
 
-**Legal smart contracts**
+**Legal smart contracts (TBC)**
 
 Cosimo Laneve (University of Bologna)
 
 **Challenges in MEV detection and Modelling crypto-markets**
 
 Alberto Leporati, Giovanni Denaro, Marco Viviani, and Davide Mancino (University of Milano Bicocca)
+
+**TBD**
+
+Letterio Galletta and Margherita Renieri (IMT Lucca)
+
+
+## Acknowledgements
+
+The school is organised thanks to the economic and organising support of the University of Cagliari.
