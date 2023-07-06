@@ -4,14 +4,6 @@
 
 **Cagliari (Italy), September 11-12, 2023**
 
-L’obiettivo principale del workshop è promuovere le collaborazioni tra chi in Italia svolge ricerca su metodi formali per sistemi decentralizzati (DLT). A tal fine, il formato del workshop è diverso da quello solito, in quanto:
-- non ci sono pubblicazioni, né formali né informali;
-- la partecipazione è solo su invito;
-- l’invito è estendibile ai membri del gruppo di ricerca: idealmente c’è uno slot per ogni gruppo;
-- gli slot sono ampi (1h o più), senza vincoli temporali stretti;
-- sono preferibili le discussioni su work-in-progress, piuttosto che su lavori già finalizzati;
-- gli speaker sono invitati a presentare le proprie idee in modo di lasciare almeno il 50% del tempo per la discussione;
-- è particolarmente incentivata la discussione di idee che possono sfociare in nuove collaborazioni scientifiche tra i gruppi, e in scrittura di progetti (ad es. per i grant della Ethereum Foundation o simili)
 
 ## Venue & accommodation
 
@@ -54,7 +46,7 @@ Michele Bugliesi (Ca' Foscari Ve) Silvia Crafa (Univ Padova), Sabina Rossi (Ca' 
 
 Silvia Crafa (Univ Padova), Lorenzo Benetollo, Michele Bugliesi, Alvise Spanò, Sabina Rossi  (Ca' Foscari Ve)
 
-**TBD**
+**Improving liquidity in DeFi protocols**
 
 Letterio Galletta and Margherita Renieri (IMT Lucca)
 
