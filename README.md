@@ -48,7 +48,11 @@ Alberto Leporati, Giovanni Denaro, Marco Viviani, and Davide Mancino (University
 
 **Security Verification of Ethereum Smart Contracts with ML Taking a Free Ride from Static Analysis**
 
-Michele Bugliesi, Silvia Crafa, Sabina Rossi, Lorenzo Benetollo, Dalila Ressi
+Michele Bugliesi (Ca' Foscari Ve) Silvia Crafa (Univ Padova), Sabina Rossi (Ca' Foscari Ve), Lorenzo Benetollo, Dalila Ressi
+
+**Programming abstractions for DLTs**
+
+Silvia Crafa (Univ Padova), Lorenzo Benetollo, Michele Bugliesi, Alvise Spanò, Sabina Rossi  (Ca' Foscari Ve)
 
 **TBD**
 
