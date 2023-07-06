@@ -46,6 +46,10 @@ Cosimo Laneve (University of Bologna)
 
 Alberto Leporati, Giovanni Denaro, Marco Viviani, and Davide Mancino (University of Milano Bicocca)
 
+**Security Verification of Ethereum Smart Contracts with ML Taking a Free Ride from Static Analysis**
+
+Michele Bugliesi, Silvia Crafa, Sabina Rossi, Lorenzo Benetollo, Dalila Ressi
+
 **TBD**
 
 Letterio Galletta and Margherita Renieri (IMT Lucca)
