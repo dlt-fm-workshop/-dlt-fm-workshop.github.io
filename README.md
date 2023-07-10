@@ -40,11 +40,11 @@ Alberto Leporati, Giovanni Denaro, Marco Viviani, and Davide Mancino (University
 
 **Security Verification of Ethereum Smart Contracts with ML Taking a Free Ride from Static Analysis**
 
-Michele Bugliesi (Ca' Foscari Ve) Silvia Crafa (Univ Padova), Sabina Rossi (Ca' Foscari Ve), Lorenzo Benetollo, Dalila Ressi
+Lorenzo Benetollo, Michele Bugliesi, Sabina Rossi (Ca' Foscari Venezia), Silvia Crafa (University of Padova), and Dalila Ressi (University of Udine)
 
 **Programming abstractions for DLTs**
 
-Silvia Crafa (Univ Padova), Lorenzo Benetollo, Michele Bugliesi, Alvise Spanò, Sabina Rossi  (Ca' Foscari Ve)
+Silvia Crafa (University of Padova), Lorenzo Benetollo, Michele Bugliesi, Sabina Rossi, and Alvise Spanò (Ca' Foscari Venezia)
 
 **Improving liquidity in DeFi protocols**
 
@@ -53,6 +53,10 @@ Letterio Galletta and Margherita Renieri (IMT Lucca)
 **State-based modeling and verification of smart contracts**
 
 Chiara Braghin, Elvinia Riccobene and Simone Valentini (University of Milano)
+
+**Design and implementation of static analyses via formal methods for blockchain**
+
+Agostino Cortesi, Luca Olivieri and Pietro Ferrara (Ca' Foscari Venezia) 
 
 
 ## Acknowledgements
