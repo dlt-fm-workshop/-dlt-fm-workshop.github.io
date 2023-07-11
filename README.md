@@ -16,7 +16,7 @@ In the center of Cagliari there are several affordable accomodation opportunitie
 [airbnb.it](https://www.airbnb.it/rooms/6619495?source_impression_id=p3_1688053073_kJI5XWcXBEsz1r%2B1).
 
 
-## Programme (draft)
+## Programme
 
 **An open benchmark for evaluating verification tools for smart contracts**
 
@@ -30,7 +30,7 @@ Emilio Tuosto and Maurizio Murgia (GSSI)
 
 Roberto Zunino and Riccardo Marchesin (University of Trento)
 
-**Legal smart contracts (TBC)**
+**Contradictions in (smart) legal contracts**
 
 Cosimo Laneve (University of Bologna)
 
@@ -59,6 +59,11 @@ Chiara Braghin, Elvinia Riccobene and Simone Valentini (University of Milano)
 Agostino Cortesi, Luca Olivieri and Pietro Ferrara (Ca' Foscari Venezia) 
 
 
+## Past editions
+
+- [2019](https://site.unibo.it/blockchain-and-newtechnologies/it/agenda/workshop-on-formal-methods-and-smart-contracts)
+
+
 ## Acknowledgements
 
-The school is organised thanks to the economic and organising support of the University of Cagliari.
+The workshop is organised thanks to the economic and organising support of the University of Cagliari.
