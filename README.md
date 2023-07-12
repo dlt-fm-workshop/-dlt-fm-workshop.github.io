@@ -16,7 +16,7 @@ In the center of Cagliari there are several affordable accomodation opportunitie
 [airbnb.it](https://www.airbnb.it/rooms/6619495?source_impression_id=p3_1688053073_kJI5XWcXBEsz1r%2B1).
 
 
-## Programme
+## Talks
 
 **An open benchmark for evaluating verification tools for smart contracts**
 
@@ -57,6 +57,11 @@ Chiara Braghin, Elvinia Riccobene and Simone Valentini (University of Milano)
 **Design and implementation of static analyses via formal methods for blockchain**
 
 Agostino Cortesi, Luca Olivieri and Pietro Ferrara (Ca' Foscari Venezia) 
+
+
+## Programme
+
+Go to the [programme page](programme.md).
 
 
 ## Past editions
