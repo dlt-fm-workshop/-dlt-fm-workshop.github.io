@@ -13,7 +13,7 @@ The workshop will take place in room III (2nd floor) of the [Palazzo delle Scien
 | **13:00-14:00** | **Lunch break** |
 | 14:00-15:00 | Programming abstractions for DLTs |
 | 15:00-16:00 | Contradictions in (smart) legal contracts |
-| **16:00-16:15** | **Coffee break** | |
+| **16:00-16:15** | **Coffee break** |
 | 16:15-17:15 | Design and implementation of static analyses via formal methods for blockchain |
 | 17:15-18:15 | Analysis and verification of smart contracts with behavioural types |
 
