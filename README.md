@@ -63,6 +63,7 @@ Agostino Cortesi, Luca Olivieri and Pietro Ferrara (Ca' Foscari Venezia)
 
 Go to the [programme page](programme.md).
 
+The workshop will be followed by the [4th Scientific School on Blockchain & Distributed Ledger Technologies](https://dlt-school.github.io/).
 
 ## Past editions
 
