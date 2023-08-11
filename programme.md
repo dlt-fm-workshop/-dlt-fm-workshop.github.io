@@ -16,6 +16,7 @@ The workshop will take place in room III (2nd floor) of the [Palazzo delle Scien
 | **16:00-16:15** | **Coffee break** |
 | 16:15-17:15 | Design and implementation of static analyses via formal methods for blockchain |
 | 17:15-18:15 | Analysis and verification of smart contracts with behavioural types |
+| **20:00-22:00** | **Social dinner (location TBA)** |
 
 ## September 12, 2023
 
